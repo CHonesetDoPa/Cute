@@ -1,6 +1,6 @@
 # Cute
 
-![](https://img.shields.io/badge/Version-0.0.1-pink) ![](https://img.shields.io/badge/Build-0.0.1-pink) ![](https://img.shields.io/badge/BuildDate-2020/10/23-pink) ![](https://img.shields.io/badge/license-Cute-pink) ![](https://img.shields.io/github/directory-file-count/CHonesetDoPa/Cute?color=pink&label=FileCount)
+![](https://img.shields.io/badge/Version-0.0.1-pink) ![](https://img.shields.io/badge/Build-0.0.1-pink) ![](https://img.shields.io/badge/BuildDate-2020/10/23-pink) ![](https://img.shields.io/badge/license-Cute-pink) ![](https://img.shields.io/github/directory-file-count/CHonesetDoPa/Cute?color=pink&label=FileCount) ![](https://img.shields.io/tokei/lines/github.com/CHonesetDoPa/Cute?color=pink&label=Total%20Lines)
 
 <a href="./README-ZH.md">Chinese Version</a> 
 
@@ -16,7 +16,7 @@
 
 # Getting Started
 
-## 1.Stickup a cute sticker on you advice.It can link cute power birdge and help you install Cute.
+## 1.Stickup a cute sticker on you device.It can link cute power bridge and help you install Cute.
 
 ## 2.Choose your cute system.
 ## 3.Download the lastest Release.Here is the guide.
@@ -34,3 +34,8 @@
 ## 5.Run init program.It will set the running environment.
 
 ***
+What?You think Cute is not cute?
+
+Wait......
+
+Open [Doc](./Doc/) may change your mind.
